@@ -50,35 +50,35 @@ public class AboutUs {
 		panel.setLayout(null);
 		
 		JLabel lblNewLabel = new JLabel("\u8F6F\u4EF6\u540D\u79F0\uFF1A");
-		lblNewLabel.setBounds(32, 23, 67, 15);
+		lblNewLabel.setBounds(30, 10, 67, 15);
 		panel.add(lblNewLabel);
 		
 		JLabel lblv = new JLabel("\u8BD5\u9898\u968F\u673A\u751F\u6210\u7A0B\u5E8FV1.0");
-		lblv.setBounds(95, 23, 154, 15);
+		lblv.setBounds(93, 10, 154, 15);
 		panel.add(lblv);
 		
 		JLabel label = new JLabel("\u5F00\u53D1\u8005\uFF1A");
-		label.setBounds(43, 49, 56, 15);
+		label.setBounds(41, 36, 56, 15);
 		panel.add(label);
 		
 		JLabel label_1 = new JLabel("\u674E\u8000\u534E");
-		label_1.setBounds(95, 49, 154, 15);
+		label_1.setBounds(93, 36, 154, 15);
 		panel.add(label_1);
 		
 		JLabel label_2 = new JLabel("\u8054\u7CFB\u90AE\u7BB1\uFF1A");
-		label_2.setBounds(32, 74, 67, 15);
+		label_2.setBounds(30, 61, 67, 15);
 		panel.add(label_2);
 		
 		JLabel lblLeocom = new JLabel("397346332@qq.com");
-		lblLeocom.setBounds(95, 74, 154, 15);
+		lblLeocom.setBounds(93, 61, 154, 15);
 		panel.add(lblLeocom);
 		
 		JLabel label_3 = new JLabel("\u624B\u673A\uFF1A");
-		label_3.setBounds(54, 99, 56, 15);
+		label_3.setBounds(52, 86, 56, 15);
 		panel.add(label_3);
 		
 		JLabel label_4 = new JLabel("18041115846");
-		label_4.setBounds(95, 99, 154, 15);
+		label_4.setBounds(93, 86, 154, 15);
 		panel.add(label_4);
 	}
 }
