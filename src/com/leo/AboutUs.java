@@ -72,5 +72,13 @@ public class AboutUs {
 		JLabel lblLeocom = new JLabel("397346332@qq.com");
 		lblLeocom.setBounds(95, 74, 154, 15);
 		panel.add(lblLeocom);
+		
+		JLabel label_3 = new JLabel("\u624B\u673A\uFF1A");
+		label_3.setBounds(54, 99, 56, 15);
+		panel.add(label_3);
+		
+		JLabel label_4 = new JLabel("18041115846");
+		label_4.setBounds(95, 99, 154, 15);
+		panel.add(label_4);
 	}
 }
